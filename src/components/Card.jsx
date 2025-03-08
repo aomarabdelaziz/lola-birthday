@@ -41,9 +41,7 @@ function Card() {
                   From the moment you walked into my life, everything changed. You are the most beautiful part of my world, the love I never knew I needed, and the home my heart always longed for. 💫💖
                 </p>
                 <p>
-                  On your special day, I want to remind you how deeply I love you. Every smile, every touch fills my heart with joy. 😘💕 You are my sunshine ☀️, my greatest adventure 🌍, and my sweetest love story. ❤️                </p>
-                <p>
-                  Happy Birthday, my love! 🎂🎉🎈 I can’t wait to celebrate many more birthdays with you, to hold you closer 🤗, to dream bigger ✨, and to love you even more with each passing day. ❤️
+                Happy Birthday, my love! 🎂❤️ I love you more than words can say. Every smile, every touch fills my heart with joy. 😘💕 You are my sunshine ☀️, my greatest adventure 🌍, and my sweetest love story. ❤️ I can't wait to celebrate many more birthdays with you, hold you closer 🤗, dream bigger ✨, and love you more each day. ❤️
                 </p>
                 <p className="signed">Your Lovely Man</p>
               </div>
