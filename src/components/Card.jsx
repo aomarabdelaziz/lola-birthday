@@ -43,13 +43,21 @@ function Card() {
                 <p>
                 Happy Birthday, my love! 🎂❤️ I love you more than words can say. Every smile, every touch fills my heart with joy. 😘💕 You are my sunshine ☀️, my greatest adventure 🌍, and my sweetest love story. ❤️ I can't wait to celebrate many more birthdays with you, hold you closer 🤗, dream bigger ✨, and love you more each day. ❤️
                 </p>
-                <p className="signed">Your Lovely Man</p>
               </div>
             </div>
 
             <div id="card-front">
               <div className="wrap">
                 <h1>Happy Birthday!</h1>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+
+                <h1>🎂 ❤️</h1>
               </div>
             </div>
           </div>
