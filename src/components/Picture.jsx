@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { picture1, picture2, picture3, picture4, picture5, picture6, picture7, picture8, audio } from '../assets';
+import { picture1, picture2, picture3, picture4, picture5, picture6, picture7, picture8 } from '../assets';
 
 import { Link } from 'react-router-dom';
 import SectionWrapper from './SectionWrapper';
@@ -20,12 +20,9 @@ const images = [
 function Picture() {
   const [loadedImages, setLoadedImages] = useState(0);
 
-  // Add an audio ref
-  const audioRef = React.useRef(new Audio(audio)); // Replace with the correct path to your audio file
-
+  
   const handleImageLoad = () => {
     setLoadedImages((prev) => prev + 1);
-    audioRef.current.play(); // Play sound when an image is loaded
   };
 
   const allImagesLoaded = loadedImages === images.length;

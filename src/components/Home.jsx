@@ -1,8 +1,15 @@
 import React, { useState } from 'react'
 import { motion } from 'framer-motion'
 import { useNavigate } from 'react-router-dom'
+import { audio } from '../assets';
 
 function Home() {
+  // Add an audio ref
+  const audioRef = React.useRef(new Audio(audio)); // Replace with the correct path to your audio file
+  audioRef.current.play(); // Play sound when an image is loaded
+
+
+
   const [visibleCount, setVisibleCount] = useState(1)
   const navigate = useNavigate()
   const sentences = [
