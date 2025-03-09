@@ -9,6 +9,12 @@ import picture5 from './picture5.jpeg'
 import picture6 from './picture6.jpeg'
 import picture7 from './picture7.jpeg'
 import picture8 from './picture8.jpeg'
+import picture9 from './picture9.jpeg'
+import picture10 from './picture10.jpeg'
+import picture11 from './picture11.jpeg'
+import picture12 from './picture12.jpeg'
+import picture13 from './picture13.jpeg'
+import picture14 from './picture14.jpeg'
 
 import audio from './entaalpy.mp3'
 
@@ -29,6 +35,13 @@ export {
     picture6,
     picture7,
     picture8,
+    picture9,
+    picture10,
+    picture11,
+    picture12,
+    picture13,
+    picture14,
+    picture
     audio,
     confetti,
     CakeSVG
