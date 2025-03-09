@@ -41,7 +41,7 @@ export {
     picture12,
     picture13,
     picture14,
-    picture
+    picture,
     audio,
     confetti,
     CakeSVG
