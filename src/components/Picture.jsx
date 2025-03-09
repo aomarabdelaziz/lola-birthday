@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { picture1, picture2, picture3, picture4, picture5, picture6, picture7, picture8, picture9, picture10, picture11, picture12, 
-  picture13, picture14, picture15
+  picture13, picture14
  } from '../assets';
 
 import { Link } from 'react-router-dom';
@@ -23,7 +23,6 @@ const images = [
   picture12,
   picture13,
   picture14,
-  picture15,
 ];
 
 function Picture() {
